@@ -1,0 +1,11 @@
+--------------------------------------------------------------------------------
+QTP Execution Log File
+--------------------------------------------------------------------------------
+DATE           TIME           LOG DESCRIPTION
+--------------------------------------------------------------------------------
+4/28/2015 11:40:25 PM     Executing the Test Case: SAA_AccountExecutiveProfile
+4/28/2015 11:40:25 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:40:25 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:40:26 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:40:41 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:40:41 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen

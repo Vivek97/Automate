@@ -1,0 +1,165 @@
+--------------------------------------------------------------------------------
+QTP Execution Log File
+--------------------------------------------------------------------------------
+DATE           TIME           LOG DESCRIPTION
+--------------------------------------------------------------------------------
+4/28/2015 11:42:04 PM     Executing the Test Case: SAA_AccountExecutiveProfile
+4/28/2015 11:42:04 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:42:04 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:42:04 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:42:19 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:42:19 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:42:48 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:42:48 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:43:03 PM     Executing the Test Case: SAA_Edit_Method
+4/28/2015 11:43:03 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:43:04 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:43:04 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:43:18 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:43:18 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:43:49 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:43:49 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:43:51 PM     Executing the Test Case: SAA_BTU_Districts_Update_Delete
+4/28/2015 11:43:51 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:43:51 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:43:52 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:44:06 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:44:06 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:44:36 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:44:36 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:44:38 PM     Executing the Test Case: SAA_Business_Unit
+4/28/2015 11:44:38 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:44:38 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:44:39 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:44:54 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:44:54 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:45:23 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:45:23 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:45:26 PM     Executing the Test Case: SAA_Calculation_Type
+4/28/2015 11:45:26 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:45:26 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:45:27 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:45:41 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:45:41 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:46:11 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:46:11 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:46:13 PM     Executing the Test Case: SAA_Contract_Hour
+4/28/2015 11:46:13 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:46:13 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:46:14 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:46:29 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:46:29 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:46:58 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:46:58 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:47:01 PM     Executing the Test Case: Communication_DeviceVersion
+4/28/2015 11:47:01 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Luanch and Login to SAA application, Business Unit Name: Login_SAA
+4/28/2015 11:47:01 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:47:01 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:47:28 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:47:28 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:47:57 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:47:58 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:48:00 PM     Executing the Test Case: SAA_GNN_Function_New
+4/28/2015 11:48:00 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:48:00 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:48:01 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:48:28 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:48:28 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:48:57 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:48:57 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:49:00 PM     Executing the Test Case: SAA_Meter Pulses
+4/28/2015 11:49:00 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:49:00 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:49:00 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:49:27 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:49:27 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:49:56 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:49:56 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:49:58 PM     Executing the Test Case: SAA_Meter_Type
+4/28/2015 11:49:58 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:49:58 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:49:59 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:50:26 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:50:26 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:50:54 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:50:55 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:50:57 PM     Executing the Test Case: SAA_Meter_Testhand
+4/28/2015 11:50:57 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:50:57 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:50:58 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:51:25 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:51:25 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:51:54 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:51:54 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:51:56 PM     Executing the Test Case: Meter_Specification_Profile
+4/28/2015 11:51:56 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Luanch and Login to SAA application, Business Unit Name: Login_SAA
+4/28/2015 11:51:56 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:51:57 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:52:23 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:52:24 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:52:52 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:52:52 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:52:55 PM     Executing the Test Case: SAA_Manufacturer
+4/28/2015 11:52:55 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:52:55 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:52:56 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:53:29 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:53:30 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:53:59 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:53:59 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:54:01 PM     Executing the Test Case: Communication_Device
+4/28/2015 11:54:01 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Luanch and Login to SAA application, Business Unit Name: Login_SAA
+4/28/2015 11:54:01 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:54:02 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:54:28 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:54:28 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:54:57 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:54:57 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:55:00 PM     Executing the Test Case: SAA_Altitude_Zone 
+4/28/2015 11:55:00 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:55:00 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:55:00 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:55:27 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:55:27 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:55:56 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:55:57 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:55:59 PM     Executing the Test Case: SAA_Altitude_Zone_Update_Delete
+4/28/2015 11:55:59 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:56:00 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:56:00 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:56:27 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:56:27 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:56:55 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:56:55 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:56:58 PM     Executing the Test Case: SAA_Add_Groups
+4/28/2015 11:56:58 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:56:58 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:56:58 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:57:25 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:57:25 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:57:55 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:57:55 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:57:57 PM     Executing the Test Case: SAA_Edit_Reason
+4/28/2015 11:57:57 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:57:57 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:57:58 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:58:24 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:58:24 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:58:53 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:58:53 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:58:55 PM     Executing the Test Case: SAA_AccountExecutiveProfile
+4/28/2015 11:58:55 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to SAA Application, Business Unit Name: Login_SAA
+4/28/2015 11:58:55 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:58:56 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the SAA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\SAA;mcs_saa.exe
+4/28/2015 11:59:22 PM     Actual step executed: Application <b><i>mcs_saa.exe</i></b> is launched successfully, Step result: Done
+4/28/2015 11:59:22 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS SAA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with GQA Lauch screen,User is displayed with GQA Lauch screen
+4/28/2015 11:59:52 PM     Actual step executed: <font color="red">Navigation is unsuccessful</font>, Step result: Fail
+4/28/2015 11:59:52 PM     Actual step executed: <font color="red">Test Execution for this scenario is Stopped due to the failure in the above step</font>, Step result: Stop
+4/28/2015 11:59:56 PM     Test Execution completed
+4/28/2015 11:59:58 PM     Executing the Test Case: CHA_Current Selection_Exception
+4/28/2015 11:59:58 PM     Executing the step - "BUSINESS_UNIT", Sequence ID: 1, Step Description: Launch and Login to CHA, Business Unit Name: Login_CHA
+4/28/2015 11:59:58 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 1, Step Description: Kill WSSM Process and Close running MCS applications if any , Function Name: fn_KillWSSMProcess, Input Data used: 
+4/28/2015 11:59:58 PM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Launch the CHA application, Function Name: fn_LaunchMCS, Input Data used: Y:\QA Builds\CHA;mcs_cha.exe
+4/29/2015 12:00:14 AM     Actual step executed: Application <b><i>mcs_cha.exe</i></b> is launched successfully, Step result: Done
+4/29/2015 12:00:14 AM     Executing the step - "GUI_FUNCTION", Sequence ID: 3, Step Description: Verfiy MCS CHA application is launched, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with CHA  screen,User is displayed with CHA  screen
+4/29/2015 12:00:14 AM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Verify User navigated to Condition Handling Application Window, Function Name: fn_ReportOnNavigation, Input Data used: User  should be displayed with MCS CHA  screen,User is displayed with MCS CHA  screen

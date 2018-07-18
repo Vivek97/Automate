@@ -1,0 +1,21 @@
+--------------------------------------------------------------------------------
+QTP Execution Log File
+--------------------------------------------------------------------------------
+DATE           TIME           LOG DESCRIPTION
+--------------------------------------------------------------------------------
+4/29/2015 12:06:30 AM     Executing the Test Case: SAA_AccountExecutiveProfile
+4/29/2015 12:06:30 AM     Executing the step - "GUI_FUNCTION", Sequence ID: 2, Step Description: Verify User login is Successful into SAA application, Function Name: fn_ReportOnNavigation, Input Data used: User should be navigated to SAA window,User is navigated to SAA window
+4/29/2015 12:06:32 AM     Actual step executed: <font color="green">User is navigated to SAA window</font>, Step result: Pass
+4/29/2015 12:06:32 AM     Executing the step - "ACTION", Sequence ID: 3, Step Description: Select the Select Profile Submenu from Codes Menu, Keyword: Enter the Menu to be selected, Input Data used: <Item 6>;<Item 1>
+4/29/2015 12:06:33 AM     Actual step executed: The SubMenu Value<font color="blue"><b><i> Item 1 </i></b></font> is selected successfully from Menu Tab<font color="blue"><b><i> Item 6 </i></b></font> in the Window, Step result: Done
+4/29/2015 12:06:33 AM     Executing the step - "GUI_FUNCTION", Sequence ID: 4, Step Description: Verify User navigated to  Select Profile window, Function Name: fn_ReportOnNavigation, Input Data used: User should be navigated to Select Profile window,User is navigated to w_mcs_saa_select_profile window
+4/29/2015 12:06:41 AM     Actual step executed: <font color="green">User is navigated to w_mcs_saa_select_profile window</font>, Step result: Pass
+4/29/2015 12:06:41 AM     Executing the step - "ACTION", Sequence ID: 5, Step Description: Select profile of user from Profile list, Keyword: Enter the Value to be selected from Drop Down, Input Data used: Account Executive Profile
+4/29/2015 12:06:44 AM     Actual step executed: The value: <font color="blue"><b><i>Account Executive Profile</i></b></font> is selected from the Dropdown <b>lstSelectProfile</b>, Step result: Done
+4/29/2015 12:06:44 AM     Executing the step - "GUI_FUNCTION", Sequence ID: 6, Step Description: Verify User navigated to Account Executive Profile window, Function Name: fn_ReportOnNavigation, Input Data used: User should be navigated to Account Executive Profile window,User is navigated to w_mcs_saa_account_executive window
+4/29/2015 12:07:14 AM     Actual step executed: <font color="green">User is navigated to w_mcs_saa_account_executive window</font>, Step result: Pass
+4/29/2015 12:07:14 AM     Executing the step - "ACTION", Sequence ID: 7, Step Description: Click on New button, Keyword: Click on Button, Input Data used: 
+4/29/2015 12:07:17 AM     Actual step executed: The Button: <b>btnNew</b> is clicked successfully, Step result: Done
+4/29/2015 12:07:17 AM     Executing the step - "ACTION", Sequence ID: 8, Step Description: Store auto generated ID into a variable, Keyword: Store the value from the field in PbDataWindow, Input Data used: #2;acct_exec_id;ID
+4/29/2015 12:07:19 AM     Actual step executed: The value: <i>163</i> is stored in the variable <b><i>ID</i></b>, Step result: Done
+4/29/2015 12:07:19 AM     Executing the step - "ACTION", Sequence ID: 9, Step Description: Enter value in Start Date field, Keyword: Enter Text Field Value, Input Data used: 
